@@ -1,0 +1,14 @@
+Bad params! Usage: php connect_db.php host username password port db
+Bad params! Usage: php connect_db.php host username password port db
+Bad params! Usage: php connect_db.php host username password port db
+Error connection to DB
+SQLSTATE[HY000] [1049] Unknown database 'jhkjk'storage in errors.log
+Error connection to DB
+SQLSTATE[HY000] [1049] Unknown database 'j'storage in errors.log
+Error connection to DB
+SQLSTATE[HY000] [1049] Unknown database 'j' storage in errors.log
+Error connection to DB
+SQLSTATE[HY000] [1698] Access denied for user 'Jen'@'localhost' storage in errors.log
+Error connection to DB
+SQLSTATE[HY000] [1045] Access denied for user 'Jean'@'localhost' (using password: YES) storage in errors.log
+Bad params! Usage: php connect_db.php host username password port db

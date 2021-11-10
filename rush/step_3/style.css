@@ -1,0 +1,51 @@
+body
+{
+width: 90%;
+height: 70%;
+text-align: center;
+padding: auto;
+background-image: url("tof/fond.jpg");
+}
+
+form
+{
+    display: inline;
+    padding: 15px;     
+}
+
+
+.bloc
+{
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 8%;
+}
+
+.main
+{
+    font-size: 250%;
+}
+
+.bloc1
+{
+    display: flex;
+}
+
+.blocadmin
+{
+    margin-top: 17%;
+    margin-left: 7%;
+   float: top;
+}
+
+input[type=submit] 
+{
+    background-color: honeydew;
+}
+
+fieldset 
+{
+    margin-bottom: 15px;
+    padding: 20px;
+}
+
